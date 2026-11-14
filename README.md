@@ -21,3 +21,6 @@ python3 app.py
 
 ## Run tests
 python -m pytest -v
+
+## Project Status
+This project uses GitHub Action for automated Python testing
